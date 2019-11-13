@@ -52,3 +52,4 @@ https://www.elastic.co/guide/en/elasticsearch/reference/current/deb.html#deb-sys
 
 # Youtube tutorial
 https://www.youtube.com/watch?v=-F-yVKFbNaI&t=19s
+https://www.youtube.com/watch?v=3xb1dHLg-Lk
